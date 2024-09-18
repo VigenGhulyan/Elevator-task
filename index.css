@@ -1,0 +1,37 @@
+.elevators{
+  display: inline-block;
+  border: solid 1px black;
+  width: 150px;
+  height: 600px;
+}
+
+.floors{
+  border: solid 1px black;
+  width: 400px;
+  height: 600px;
+}
+
+.floor{
+  border: solid 1px black;
+  width: 398px;
+  height: 28px;
+}
+.elevator{
+  height: 28px;
+  border: solid 1px black;
+}
+
+.elevator1{
+  border: solid 1px black;
+}
+
+#el1{
+  display: flex;
+}
+
+.ell{
+  border: solid black;
+  height: 24px;
+  width: 80px;
+  transition: transform 2s linear;
+}
